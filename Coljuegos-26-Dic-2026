@@ -1,7 +1,24 @@
+#  lista de bloqueo DNS Coljuegos MINTIC Colombia
+#  Actualizada el día 9 de junio de 2026
+#  la lista que publica a la fecha mintic tiene fecha : 26 diciembre 2026
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
 
-
-
-
+#lista de URL Coljuegos bloqueo oficial apuesta ilegales Colombia 
+#  Actualizada el día 9 de junio de 2026
+#  la lista que publica a la fecha por mintic tiene fecha : 26 diciembre 2026
 
 0.0.0.0    bet365.com
 0.0.0.0    casino-bonus.com
